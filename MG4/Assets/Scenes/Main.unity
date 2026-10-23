@@ -12782,7 +12782,7 @@ GameObject:
   - component: {fileID: 2007713942}
   m_Layer: 0
   m_Name: Sphere (4)
-  m_TagString: Subtract
+  m_TagString: Multiply
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
